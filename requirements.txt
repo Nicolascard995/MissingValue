@@ -1,0 +1,10 @@
+pyjanitor
+missingno
+numpy
+matplotlib==3.5.1
+pyreadr
+seaborn
+session-info
+upsetplot==0.6.1
+pandas==1.5.3
+pandas==1.5.3
